@@ -15,29 +15,3 @@ All emoji for markdown cheatsheet
 :hushed: | ``:hushed:`` | :expressionless: | ``:expressionless:`` | :unamused: | ``:unamused:`` | :sweat_smile: | ``:sweat_smile:``
 :sweat: | ``:sweat:`` | :disappointed_relieved: | ``:disappointed_relieved:`` | :weary: | ``:weary:`` | :pensive: | ``:pensive:``
 :disappointed: | ``:disappointed:`` | :confounded: | ``:confounded:`` | :fearful: | ``:fearful:`` | :cold_sweat: | ``:cold_sweat:``
-
-
-
-:persevere:
-:cry:
-:sob:
-:joy:
-:astonished:
-:scream:
-:neckbeard:
-:tired_face:
-:angry:
-:rage:
-:triumph:
-:sleepy:
-:yum:
-:mask:
-:sunglasses:
-:dizzy_face:
-:imp:
-:smiling_imp:
-:neutral_face:
-:no_mouth:
-:innocent:
-:alien:
-
